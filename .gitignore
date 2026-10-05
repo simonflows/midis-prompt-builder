@@ -1,4 +1,4 @@
-﻿# Operating System Files
+# Operating System Files
 .DS_Store
 Thumbs.db
 desktop.ini
@@ -14,3 +14,6 @@ desktop.ini
 
 # Temporary & Log files
 *.log
+
+# Nested Projects
+Искусственный интеллект и рынок труда (обществознание)/
